@@ -515,6 +515,9 @@ section.form .container {
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#form1-g .form-control-label {
+  color: #232323;
+}
 #msg-box2-7 .mbr-section-title {
   color: #fff;
 }

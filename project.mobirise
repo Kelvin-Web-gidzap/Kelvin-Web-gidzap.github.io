@@ -20,12 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -55,7 +57,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/index.html#toggle1-1r\">ВОПРОС/ОТВЕТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=ru.gidzap.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\">СКАЧАТЬ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">КУПИТЬ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -123,7 +125,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GIDZAP</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GIDZAP - обучение</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-9"
         },
@@ -167,8 +169,8 @@
             }
           },
           "title": "ОБУЧАЮЩИЕ МАТЕРИАЛЫ",
-          "text": "Колекция полезных видео для пользователей платформы gidzap.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЙ</a>",
+          "text": "Коллекция полезных видео для пользователей платформы gidzap.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box4-8\" data-toolbar=\"-mbrBtnMove\">НАЧАТЬ ОБУЧЕНИЕ</a>",
           "_tags": [
             "Theme"
           ],
@@ -177,11 +179,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote>Видео уроки по работе с мобильным приложением и сайтом. Рассказываем как добавлять товары на сайт, как осуществлять продажу / списание товаров с сайта, как подключать поставщиков и многое другое.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -218,7 +220,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=SOXsfZZRJ7Q&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -229,12 +231,12 @@
               "size": 250
             }
           },
-          "title": "МОБИЛЬНОЕ ПРИЛОЖЕНИЕ",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Добавление товара с телефона.",
+          "text": "<p>Добавление товаров, через мобильное приложение.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=SOXsfZZRJ7Q&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-8"
         },
@@ -268,7 +270,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/xHh9P-GXNMU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -279,12 +281,12 @@
               "size": 250
             }
           },
-          "title": "АДМИНКА САЙТА",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Добавление товара загрузкой файла csv",
+          "text": "С помощью файла CSV, можно загружать товарные позиции на сайт через административную часть сайта.&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://youtu.be/xHh9P-GXNMU\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-b"
         },
@@ -318,7 +320,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/-AylEKDxboA",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -329,12 +331,12 @@
               "size": 250
             }
           },
-          "title": "ВЫГРУЗКА ТОВАРОВ",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Подключение онлайн поставщиков",
+          "text": "Из административной части сайта, выбирите поставщиков, которых хотите добавить к себе на сайт и нажмите кнопку \"подключить\"",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://youtu.be/-AylEKDxboA\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c"
         },
@@ -368,7 +370,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/fRByIRYJXss",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -379,12 +381,12 @@
               "size": 250
             }
           },
-          "title": "РЕДАКТОР САЙТА",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Продажа товара через приложение",
+          "text": "Оформляя заказ в мобильном приложении, товар автоматически скрывается с сайта. В истории продаж можно менять статусы заказов и смотреть всю информацию по заказу и покупателю.",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://youtu.be/fRByIRYJXss\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-d"
         },
@@ -418,7 +420,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/yQGQkF9XlAI",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -429,12 +431,12 @@
               "size": 250
             }
           },
-          "title": "ГЕНЕРАТОР ССЫЛОК ДЛЯ РЕКЛАМЫ",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Выгрузка товаров в csv файл",
+          "text": "<p>Выгрузить собственное наличие и наличие поставщиков, со своей наценкой, можно через мобильное приложение и через административную часть сайта.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://youtu.be/yQGQkF9XlAI\" data-toolbar=\"-mbrBtnMove\">Смотреть</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-e"
         },
@@ -459,6 +461,63 @@
           "_anchor": "footer1-f"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ОСТАВИТЬ ЗАЯВКУ",
+          "subtitle": "если Вам необходима консультация наших специалистов, <br>оставьте заявку и Мы свяжемся с Вами в ближайшее время",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
+          "form": {
+            "action": "druga754@gmail.com",
+            "alerts": {
+              "success": "Спасибо, мы приняли Вашу заявку. В ближайшее время с Вами свяжемся! "
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
@@ -472,8 +531,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -487,9 +546,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "<a href=\"https://www.youtube.com/channel/UCJXrqbFFljUw0rm5wVZKsKw?view_as=subscriber\" target=\"_blank\">Youtube canal</a>",
+          "text": "Подпишитесь на наш канал на youtube",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/channel/UCJXrqbFFljUw0rm5wVZKsKw?view_as=subscriber\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПЕРЕЙТИ</a>",
           "_tags": [
             "Theme"
           ],
