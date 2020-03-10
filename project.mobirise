@@ -57,7 +57,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/index.html#toggle1-1r\">ВОПРОС/ОТВЕТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=ru.gidzap.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\">СКАЧАТЬ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">КУПИТЬ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/\">ПЕРЕЙТИ GIDZAP.RU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/index.html#toggle1-1r\" target=\"_blank\">ВОПРОС/ОТВЕТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=ru.gidzap.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" target=\"_blank\">СКАЧАТЬ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://gidzap.ru/index.html#pricing-tables2-1o\" target=\"_blank\">КУПИТЬ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -115,7 +115,7 @@
               "src": "@PROJECT_PATH@/assets/images/icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://gidzap.ru",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": true
             },
@@ -125,7 +125,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GIDZAP - обучение</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GIDZAP - обучение</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-9"
         },
