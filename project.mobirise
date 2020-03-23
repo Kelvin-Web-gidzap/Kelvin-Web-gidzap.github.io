@@ -57,7 +57,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/\">ПЕРЕЙТИ GIDZAP.RU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/index.html#toggle1-1r\" target=\"_blank\">ВОПРОС/ОТВЕТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=ru.gidzap.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" target=\"_blank\">СКАЧАТЬ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://gidzap.ru/index.html#pricing-tables2-1o\" target=\"_blank\">КУПИТЬ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/\">ПЕРЕЙТИ НА GIDZAP.RU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gidzap.ru/index.html#toggle1-1r\" target=\"_blank\">ВОПРОС/ОТВЕТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=ru.gidzap.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" target=\"_blank\">СКАЧАТЬ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://gidzap.ru/index.html#pricing-tables2-1o\" target=\"_blank\">КУПИТЬ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -420,7 +420,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/yQGQkF9XlAI",
+              "src": "https://youtu.be/XbI4ww4POYQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
